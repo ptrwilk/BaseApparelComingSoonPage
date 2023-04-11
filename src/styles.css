@@ -1,6 +1,15 @@
 .app{
     display: flex;
     justify-content: center;
-    align-items: center;
     height: 100vh;
+    background: url('./assets/bg-pattern-desktop.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (max-width : 1000px) {
+    .app{
+        background: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
+    }
 }
