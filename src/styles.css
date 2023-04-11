@@ -3,9 +3,6 @@
     justify-content: center;
     height: 100vh;
     background: url('./assets/bg-pattern-desktop.svg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
 }
 
 @media (max-width : 1000px) {
