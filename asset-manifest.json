@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BaseApparelComingSoonPage/static/css/main.854b853b.css",
+    "main.css": "/BaseApparelComingSoonPage/static/css/main.00dc1eb2.css",
     "main.js": "/BaseApparelComingSoonPage/static/js/main.8524e7da.js",
     "static/js/787.04ef54c2.chunk.js": "/BaseApparelComingSoonPage/static/js/787.04ef54c2.chunk.js",
     "static/media/hero-desktop.jpg": "/BaseApparelComingSoonPage/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
@@ -10,12 +10,12 @@
     "static/media/bg-pattern-desktop.svg": "/BaseApparelComingSoonPage/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
     "static/media/icon-error.svg": "/BaseApparelComingSoonPage/static/media/icon-error.77009af74a9c193a398a6476b25aa1f3.svg",
     "static/media/icon-arrow.svg": "/BaseApparelComingSoonPage/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
-    "main.854b853b.css.map": "/BaseApparelComingSoonPage/static/css/main.854b853b.css.map",
+    "main.00dc1eb2.css.map": "/BaseApparelComingSoonPage/static/css/main.00dc1eb2.css.map",
     "main.8524e7da.js.map": "/BaseApparelComingSoonPage/static/js/main.8524e7da.js.map",
     "787.04ef54c2.chunk.js.map": "/BaseApparelComingSoonPage/static/js/787.04ef54c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.854b853b.css",
+    "static/css/main.00dc1eb2.css",
     "static/js/main.8524e7da.js"
   ]
 }
